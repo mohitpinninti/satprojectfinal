@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+
+/utils/env.py
+
+FinalProjectKeyPair.pem
+S2A_MSIL1C_20151125T163622_N0204_R083_T16SGJ_20151125T163709
+picture.zip
+random_data/
