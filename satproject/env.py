@@ -1,0 +1,1 @@
+FILE_PATH = "C:\\Users\\pinni\\OneDrive\\Desktop\\ADM\\SatProjectHolder\\satproject"
